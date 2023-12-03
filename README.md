@@ -1,6 +1,6 @@
-Name: Saksham jain
-Scaler email: saksham.23bcs10063@ms.sst.scaler.com
-Project assigned: 5th
+*Name:* Saksham jain
+*Scaler email:* saksham.23bcs10063@ms.sst.scaler.com
+*Project assigned:* 5th
 
 # Photographer Portfolio Website
 
