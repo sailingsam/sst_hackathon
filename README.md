@@ -1,7 +1,7 @@
-*Name:* Saksham jain
-*Scaler email:* saksham.23bcs10063@ms.sst.scaler.com
-*Project assigned:* 5th
-
+**Name:** Saksham jain |
+**Scaler email:** saksham.23bcs10063@ms.sst.scaler.com |
+**Project assigned:** 5th
+#
 # Photographer Portfolio Website
 
 This project is a photographer portfolio website created for an assignment. The website showcases various sections such as Home, About, Resume, Portfolio, Services, and Contact.
